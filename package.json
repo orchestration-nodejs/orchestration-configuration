@@ -1,0 +1,24 @@
+{
+  "name": "orchestration-configuration",
+  "version": "0.0.1",
+  "description": "Inspect the configuration of your deployment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orchestration-nodejs/orchestration-configuration.git"
+  },
+  "keywords": [
+    "orchestration",
+    "microservices",
+    "gulp"
+  ],
+  "author": "Redpoint Games Pty Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orchestration-nodejs/orchestration-configuration/issues"
+  },
+  "homepage": "https://github.com/orchestration-nodejs/orchestration-configuration#readme"
+}
